@@ -1,6 +1,6 @@
 {
-  "name": "Gerenciador de Doações",
-  "short_name": "Doações",
+  "name": "Grace no acamp",
+  "short_name": "Grace",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f0f0f0",
